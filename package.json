@@ -1,0 +1,18 @@
+{
+  "name": "javascripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.3",
+    "nvm-win": "^0.2.4",
+    "replace-in-file": "^3.2.0",
+    "replacestream": "^4.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "author": "stefan",
+  "license": "ISC"
+}
